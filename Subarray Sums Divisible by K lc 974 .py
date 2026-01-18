@@ -10,4 +10,3 @@ for i  in nums:
         count+=seen[rem]
     seen[rem]=seen.get(rem,0)+1#for every sum we are madeed require 
 print(count) 
-    
